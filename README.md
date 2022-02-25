@@ -9,6 +9,6 @@ Download and unzip the directory, open MATLAB, and then navigate to wherever you
 
 Comment: For the publication, normalized entropy was selected by using a representative cluster. In the uploaded scripts this step was omitted reduce the execution time.
 
-For any question, contact: sebastian.idesis@gmail.com
+For any question, contact: **sebastian.idesis@gmail.com**
 
 If you use this code, please cite: Idesis et al. (2022) - Edge centric analysis of stroke patients. An alternative approach for biomarkers of lesion recovery
