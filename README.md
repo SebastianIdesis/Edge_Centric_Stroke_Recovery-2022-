@@ -11,4 +11,4 @@ Comment: For the publication, normalized entropy was selected by using a represe
 
 For any question, contact: **sebastian.idesis@gmail.com**
 
-If you use this code, please cite: Idesis et al. (2022) - Edge centric analysis of stroke patients. An alternative approach for biomarkers of lesion recovery
+If you use this code, please cite: Idesis, S., Faskowitz, J., Betzel, R. F., Corbetta, M., Sporns, O., & Deco, G. (2022). Edge-centric analysis of stroke patients: An alternative approach for biomarkers of lesion recovery. NeuroImage: Clinical, 103055.
